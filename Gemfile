@@ -14,9 +14,10 @@ end
 group :test do
 	gem 'rspec'
 	gem 'webrat'
+#	gem 'spork'
 end
 
-# Use unicorn as the web server
+# Use ualnicorn as the web server
 # gem 'unicorn'
 
 # Deploy with Capistrano
